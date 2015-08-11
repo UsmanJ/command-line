@@ -1,0 +1,1 @@
+'grep' is a shell command which allows the user to search for a pattern amongst the files. For example you may want to search for files that begin with T or contain a specific word in them. You may also want to search for a particular type of file; for example files with the extension .rb.
